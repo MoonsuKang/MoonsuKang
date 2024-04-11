@@ -9,7 +9,7 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>Mobile app developer</b> using Android.🚀<br/>
-  I am currently learning jetpack Compose, Courtine, Architecture.<br/><br/>
+  I am currently learning jetpack Compose, Coroutine, Clean Architecture.<br/><br/>
 </p>
 </div>
 
