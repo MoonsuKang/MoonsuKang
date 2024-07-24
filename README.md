@@ -1,4 +1,4 @@
-<!--
+
 
 <div align="center">
    
@@ -31,10 +31,9 @@
  
 </p>
 
--->
 
 
-  <!-- ---
+
   
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonsuKang&layout=compact&langs_count=10&hide=html,css,php" style="height: 150px; width: auto;" />
@@ -42,7 +41,8 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdms4971" style="height: 150px; width: auto;" />
   </a>
 </div>
--->
+
+  <!-- ---
 
 <div align="center">
    
@@ -50,10 +50,7 @@
 
 
 
-
-![sponge](https://github.com/MoonsuKang/MoonsuKang/assets/85223787/19c47aac-955c-44e0-983f-16eb4721d41a)
-
 </div>
-
+-->
 
 
