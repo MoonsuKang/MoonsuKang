@@ -16,9 +16,10 @@
 
 ### CURRENTLY STUDYING
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+<!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 ![Coroutine](https://img.shields.io/badge/Coroutine-0095D5?style=for-the-badge&logo=C&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-239120?style=for-the-badge)
 
 
 
