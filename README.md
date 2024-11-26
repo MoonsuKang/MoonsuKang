@@ -8,18 +8,16 @@
 
 ### HELLO
 - My name is Moonsu Kang.
-- I am currently majoring in Software.
-- I have a strong interest in Android development.
-- I am also interested in setting up CI/CD pipelines for Android.
+- I am currently majored in Software.
+- I have a strong interest in Android dev.
 
 
 
 ### CURRENTLY STUDYING
 
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-![Coroutine](https://img.shields.io/badge/Coroutine-0095D5?style=for-the-badge&logo=C&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-239120?style=for-the-badge)
+- Kotlin Coroutine
+- Rust
 
 
 
@@ -27,12 +25,8 @@
 <p>
    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Retrofit-48B983?style=flat-square&logo=Retrofit&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/></a>&nbsp
 </p>
 
 
