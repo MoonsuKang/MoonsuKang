@@ -8,7 +8,7 @@
 
 ### HELLO
 - My name is Moonsu Kang.
-- I am currently majored in Software.
+- I majored in Software.
 - I have a strong interest in Android dev.
 
 
@@ -16,8 +16,7 @@
 ### CURRENTLY STUDYING
 
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
-- Kotlin Coroutine
-- Rust
+- Coroutine
 
 
 
