@@ -9,13 +9,14 @@
 ### HELLO
 - My name is Moonsu Kang.
 - I majored in Software.
-- I have a strong interest in Android dev.
+- I have a strong interest in Mobile dev.
 
 
 
 ### CURRENTLY STUDYING
 
 <!-- ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+- React Native
 - Coroutine
 
 
@@ -35,8 +36,8 @@
 ![MoonsuKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonsuKang&show_icons=true&theme=rose_pine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonsuKang&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### PROBLEM SOLVE
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdms4971)](https://solved.ac/rkdms4971/)
+<!-- ### PROBLEM SOLVE -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdms4971)](https://solved.ac/rkdms4971/) -->
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/MoonsuKAng" width="1000" height="120"/>
