@@ -36,7 +36,6 @@
 - Kotlin
 - Kotest
 - Coroutine
-- React Native
 
 </br>
 
